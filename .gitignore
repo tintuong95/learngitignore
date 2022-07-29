@@ -1,2 +1,4 @@
 src/**
-!**src/index.ts
+# !**src/folder1
+
+!**folder1
